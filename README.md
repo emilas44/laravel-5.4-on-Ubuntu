@@ -1,8 +1,5 @@
 # laravel-5.4-on-Ubuntu
 
-install Laravel 5.2 on ubuntu
+install Laravel 5.4 on ubuntu
 
-Complete instructions how to install Laravel 5.2 Framework on Ubuntu
-
-
-
+bash script for installing NGINX, PHP7, MySQL, Redis & Laravel 5.4 Framework on Ubuntu
