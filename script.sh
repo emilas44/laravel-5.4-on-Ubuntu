@@ -6,6 +6,11 @@ sudo apt update
 echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::updated apt repos"
 sleep 2
 
+# install zip & git
+sudo apt -y install zip git
+echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed NGINX"
+sleep 2
+
 # install nginx
 sudo apt -y install nginx
 echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed NGINX"
