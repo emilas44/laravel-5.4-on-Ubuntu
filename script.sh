@@ -106,7 +106,6 @@ sleep 2
 cd /home/$USER
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
-export PATH=~/.config/composer/vendor/bin:$PATH
 echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed composer"
 sleep 2
 
