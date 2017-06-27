@@ -103,7 +103,6 @@ echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed redi
 sleep 2
 
 #install composer
-cd /home/$USER
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed composer"
