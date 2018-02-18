@@ -8,7 +8,7 @@ sleep 2
 
 # install zip & git
 sudo apt -y install zip git
-echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed NGINX"
+echo "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::installed zip & git"
 sleep 2
 
 # install nginx
